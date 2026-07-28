@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Bachelor's in **Artificial Intelligence** at **Sindh Madressatul Islam University (SMIU)** — currently in my 4th semester
+- 🎓 Bachelor's in **Artificial Intelligence** at **Sindh Madressatul Islam University (SMIU)** — currently in my 5th semester
 - 🤖 Passionate about **Machine Learning, Deep Learning, NLP, and Agentic AI**
 - 🧠 I enjoy turning research papers and coursework concepts into real, deployable projects
 - 🛠️ Currently exploring **fine-tuning LLMs**, **building AI agents**, and **deploying ML models as web apps & APIs**
